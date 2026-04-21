@@ -16,7 +16,7 @@
 ```yaml
 # ─── whoami ───────────────────────────────────────────────
 name:       Derek Friedhelm Coronado Chilin
-location:   Villa Nueva, Guatemala City, GT 🇬🇹
+location:   Guatemala City, GT 🇬🇹
 education:  CS & IT Engineering @ Universidad del Valle de Guatemala
 scholarship: Juan Bautista Gutiérrez Foundation
 
@@ -122,6 +122,8 @@ Carpool application for the UVG community.
 I led the **Frontend** development — UI design and component architecture.
 **React · Tailwind CSS**
 
+[![Frontend](https://img.shields.io/badge/Frontend-000?style=flat-square&logo=github&logoColor=white)](https://github.com/PabloVS044/carpool-app-front)
+
 </td>
 <td width="50%" valign="top">
 
@@ -151,6 +153,8 @@ Motivational and organization mobile app.
 University collaboration platform with a 34-entity schema.
 I worked on the **Frontend** side of the platform.
 **NestJS · Next.js · PostgreSQL · Prisma**
+
+[![Repo](https://img.shields.io/badge/Repo-000?style=flat-square&logo=github&logoColor=white)](https://github.com/asanabria-2021067/proyecto-ingenieria-software)
 
 </td>
 </tr>
