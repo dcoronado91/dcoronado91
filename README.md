@@ -4,8 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+in+Training;Mobile+Developer+%28Kotlin%29;Building+things+that+matter;Always+learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derek-coronado/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/derek-coronado/](https://www.linkedin.com/in/derek-friedhelm-coronado-chilin-12bbb3388/))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:derekcoronado9@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dcoronado91&color=F7A41D&style=flat-square&label=Profile+Views)
